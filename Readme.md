@@ -1,7 +1,7 @@
 # QuizMe - Interactive CLI Quiz Tool
 
 <div align="center">
-  <img src="https://github.com/3bbaas/quizme/blob/main/assets/demo.png" alt="QuizMe Logo" width="400" />
+  <img src="https://github.com/3bbaas/quizme/blob/main/assets/demo.png" alt="QuizMe demo" width="400" />
 </div>
 
 [![NPM Version](https://img.shields.io/npm/v/@3bbas/quizme.svg)](https://www.npmjs.com/package/@3bbas/quizme)
