@@ -76,7 +76,7 @@ class QuizRunner {
                     head: [
                         { colSpan: 2, hAlign: 'center', content: chalk_1.default.blue.bold('Review incorrect answers') },
                     ],
-                    colWidths: [3, 120],
+                    colWidths: [5, 120],
                     wordWrap: true,
                 });
                 this.results.incorrect.forEach((q, i) => {
