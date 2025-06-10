@@ -86,7 +86,7 @@ export class QuizRunner {
           head: [
             { colSpan: 2, hAlign: 'center', content: chalk.blue.bold('Review incorrect answers') },
           ],
-          colWidths: [3, 120],
+          colWidths: [5, 120],
           wordWrap: true,
         });
 
