@@ -1,6 +1,6 @@
 {
   "name": "@3bbas/quizme",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "quizme is tool that help to generate a cli quiz from json file.",
   "keywords": [
     "cli-tools",
