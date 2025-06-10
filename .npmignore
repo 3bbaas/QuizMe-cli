@@ -1,0 +1,10 @@
+tests/
+docs/
+.idea/
+node_modules/
+package-lock.json
+
+*.json
+
+*.log
+*.tgz
